@@ -8,8 +8,8 @@
 - 😄 Pronouns: He/Him
 
  <div style="display: inline-block">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=amadeusdias&show_icons=true&theme=merko">
-  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadeusdias&layout=compact">
+  <img align="center" height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=amadeusdias&show_icons=true&theme=merko">
+  <img align="center" height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadeusdias&layout=compact">
  </div>
  <div style="display: inline-block">
   <h3>Current Skills:<h3>
