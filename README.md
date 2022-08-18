@@ -7,10 +7,10 @@
 - 📫 Send me a email: amadeusdias@hotmail.com
 - 😄 Pronouns: He/Him
 
-   <div>
+ <div style="display: inline-block">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=amadeusdias&show_icons=true&theme=merko">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadeusdias&layout=compact">
-  </div>
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadeusdias&layout=compact">
+ </div>
  <div style="display: inline-block">
   <h3>Current Skills:<h3>
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
