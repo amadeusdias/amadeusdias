@@ -1,9 +1,9 @@
 ## Hi there, my name is Amadeus Dias
 
-- 🔭 I’m currently working on my Front-End skills.
-- 🌱 I’m currently learning React and Redux, UI and Web Design. 
-- 🤔 I’m looking for help with building a carrer. 
-- 💬 Ask me about my cat. 
+- 🔭 I’m currently working on my Front-End and Back-End skills.
+- 🌱 I’m currently learning Node.js, Typescript and POO. 
+- 🤔 I´m looking for help to build a career, help people and write better code.
+- 💬 Ask me about availability to collaborate on projects and communities.
 - 📫 Send me a email: amadeusdias@hotmail.com
 - 😄 Pronouns: He/Him
 
