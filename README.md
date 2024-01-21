@@ -1,7 +1,7 @@
 ## Hi there, my name is Amadeus Dias
 
-- 🔭 I’m currently working on my Front-End and Back-End skills.
-- 🌱 I’m currently learning Node.js, Typescript and POO. 
+- 🔭 I’m currently working.
+- 🌱 I’m currently learning SQL, Ruby and Rails. 
 - 🤔 I´m looking for help to build a career, help people and write better code.
 - 💬 Ask me about availability to collaborate on projects and communities.
 - 📫 Send me a email: amadeusdias@hotmail.com
